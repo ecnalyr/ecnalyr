@@ -14,3 +14,30 @@
  *= require font-awesome
  *= require_self
  */
+.icons {
+  font-size: 2em;
+  i {
+    color: black;
+    padding: 0 15px 5px 15px;
+  }
+}
+
+#twitter:hover {
+  color: #55acee; 
+}
+
+#github:hover {
+  color: #4183C4; 
+}
+
+#linkedin:hover {
+  color: #0e76a8; 
+}
+
+#facebook:hover {
+  color: #3b5998; 
+}
+
+#stack-overflow:hover {
+  color: #ef8236; 
+}
