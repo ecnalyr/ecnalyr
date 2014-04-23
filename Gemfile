@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'foundation-rails'
+gem 'font-awesome-rails'
 gem 'haml-rails'
 gem 'high_voltage'
 group :development do
